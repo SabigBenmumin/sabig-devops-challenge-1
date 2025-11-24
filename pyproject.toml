@@ -1,0 +1,10 @@
+[project]
+name = "sabig-devops-challenge-1"
+version = "0.1.0"
+description = "A simple random joke API for DevOps practice"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+]
